@@ -1,0 +1,9 @@
+com.finra.assignment.fileuploader
+com.finra.assignment.fileuploader.beans
+com.finra.assignment.fileuploader.configurations
+com.finra.assignment.fileuploader.controllers
+com.finra.assignment.fileuploader.repository
+com.finra.assignment.fileuploader.repository.redisdictionary
+com.finra.assignment.fileuploader.services
+com.finra.assignment.fileuploader.services.filesystem
+com.finra.assignment.fileuploader.services.keywordextractor

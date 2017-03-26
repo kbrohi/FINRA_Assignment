@@ -1,0 +1,20 @@
+spring:
+  mail:
+    host: localhost #address of the mail server
+    port: 9000 #connection port to the server#
+    username: hello #username credential#
+    password: hello #password credential#
+    protocol: smtp #protocol#
+
+notification:
+  to: mohamed.ibrahim@finra.com #address of the receiver of the notification#
+  from: kaleem.brohi@email.com #address of the sender#
+  subject: Newly added files #subject of message#
+  text: These are the newly added files #text message of the mail#
+
+redis:
+  host: localhost #address of redis host#
+  port: 6379 #port of connection of redis host#
+
+file-system:
+  directory: fua-uploaded #name of the app root directory#

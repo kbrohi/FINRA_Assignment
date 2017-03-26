@@ -1,0 +1,44 @@
+{
+  "properties": [
+    {
+      "name": "redis.host",
+      "type": "java.lang.String",
+      "description": "Address of the redis server's host."
+    },
+    {
+      "name": "redis.port",
+      "type": "java.lang.String",
+      "description": "connection port of the redis server."
+    },
+    {
+      "name": "notification.subject",
+      "type": "java.lang.String",
+      "description": "Subject of the newly added file notification mail."
+    },
+    {
+      "name": "notification.text",
+      "type": "java.lang.String",
+      "description": "Text message of the newly added file notification mail."
+    },
+    {
+      "name": "notification.to",
+      "type": "java.lang.String",
+      "description": "Address of the receiver of the the notification email."
+    },
+    {
+      "name": "notification.from",
+      "type": "java.lang.String",
+      "description": "Address of the sender of the notification email."
+    },
+    {
+      "name": "redis.dictionary.file-dictionary",
+      "type": "java.lang.String",
+      "description": "name of the file dictionary."
+    },
+    {
+      "name": "file-system.directory",
+      "type": "java.lang.String",
+      "description": "Name of the storage directory of the app."
+    }
+  ]
+}

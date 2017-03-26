@@ -1,0 +1,19 @@
+Sallam ada
+
+Maine wamp install kardia hai tumhare pc par 
+wamp means= php+apache+mysql
+
+IIS server install hai tumhare pas islie ye port ka masla kar raha tha maine apache ka port change kar k 8080 rakh dia hai.
+
+OR pora project tumhare local par configure kardia hai but phpmyadmin nahe chal raha localhost password ka koi error dai raha hai tum check karna browser mai open hai.
+
+database open hoga to mai us mai dump import karwaonga then project chal jaega 
+abhi project mai database ka error a raha hai.
+
+
+maine db configuration ki file b open ki hai notepadd++ mai us mai wo credential dena jo tumhare local k database k hon.
+
+database ka dump c:wamp/www/avscalculatordb1.sql 
+
+or jitna kam maine kia hai wo live par uploaded hai
+

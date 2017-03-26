@@ -1,0 +1,51 @@
+317-603-4819 RamaRaju
+
+1. Fabbonic Series & rever string
+2. Prime number
+3. Pramiyd 
+4. Singleton class in multihtread
+syncroize block, wait join, 
+
+5. how to create customization exception
+
+throw, thorws 
+
+6. collection.
+without collection how create array list
+
+7. hashmap & concurrentHaspmap
+8. Database 
+8.1 two tables max salary, max count 
+max join, group by 
+functions
+packages
+trigger
+views benefits
+index ( clusterd and not cluesterd )
+
+UI
+java script
+== ===
+var declation
+without var
+
+JQuery
+directive
+paginiation 
+jquery.min.js menu table
+directive page navigation
+no of page
+min.js
+
+hibernate
+how create config
+one to one 
+
+Spring mvc flow
+
+AJAX flow with example
+how ajax works
+how page refreshed in ajax  
+
+differece between put and post with example
+
